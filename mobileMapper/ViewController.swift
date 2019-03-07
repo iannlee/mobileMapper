@@ -27,6 +27,10 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         currentLocation = locations[0]
     }
-
+    @IBAction func whenZoomButtonPressed(_ sender: Any) {
+    }
+    
+    @IBAction func whenSearchButtonpressed(_ sender: Any) {
+    }
 }
 

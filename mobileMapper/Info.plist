@@ -2,9 +2,11 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>NSAppleEventsUsageDescription</key>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Can we show your location?</string>
+	<key>CFBundleGetInfoString</key>
 	<string></string>
-	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<key>NSAppleEventsUsageDescription</key>
 	<string></string>
 	<key>LSApplicationCategoryType</key>
 	<string></string>
